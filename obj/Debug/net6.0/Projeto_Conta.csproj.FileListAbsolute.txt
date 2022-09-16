@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/bin/Debug/net6.0/Projeto_Conta
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/bin/Debug/net6.0/Projeto_Conta.deps.json
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/bin/Debug/net6.0/Projeto_Conta.runtimeconfig.json
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/bin/Debug/net6.0/Projeto_Conta.dll
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/bin/Debug/net6.0/Projeto_Conta.pdb
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.csproj.AssemblyReference.cache
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.dll
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/refint/Projeto_Conta.dll
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.pdb
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/Projeto_Conta.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/Turma FE6_FS8/Back-End/Projeto_Conta/obj/Debug/net6.0/ref/Projeto_Conta.dll
